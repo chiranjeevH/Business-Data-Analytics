@@ -1,0 +1,9 @@
+from pycaret.regression import *
+
+reg1 = setup(data=dataset, target = 'Confirmed', html = False)
+
+best_model = compare_models()
+
+save_model(best, 'c:/users/moezs/best-model-power')
+
+dataset = pull()
