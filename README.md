@@ -24,12 +24,19 @@ This GitHub project provides a comprehensive Python-based solution for analyzing
 
 To use this project, follow these steps:
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/CDR-Analysis.git`.
+To use this project, follow these steps:
 
-2. Install the required Python libraries by running `pip install -r requirements.txt`.
+1. Clone the repository to your local machine using `git clone https://github.com/chiranjeevH/CDR-Analysis.git`.
+
+2. Install the required Python libraries by running `pip install -r requirements.txt`, which includes `pandas` and `collections`.
 
 3. Prepare your CDR data files and ensure they are placed in the appropriate directory.
 
 4. Execute the Python program by running `python cdr_analysis.py` and follow the on-screen instructions.
 
 5. After the analysis is complete, the Power BI dashboard file will be generated and can be opened using Power BI Desktop.
+
+
+## License
+
+This project is licensed under the corp: Tectum Technologies PVT LTD.
