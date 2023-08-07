@@ -2,8 +2,6 @@
 
 # Call Detail Records Analysis with Power BI Dashboard
 
-![Project Banner](https://example.com/path/to/project/banner.png)
-
 ## Project Overview
 
 This GitHub project provides a comprehensive Python-based solution for analyzing Call Detail Records (CDRs) and presenting the insights through interactive Power BI dashboards. Call Detail Records are telecommunication data logs that contain valuable information about calls, including call duration, timestamps, caller and receiver numbers, and more. Leveraging Python's data processing capabilities and Power BI's visualization features, this project empowers users to explore and understand call patterns, trends, and anomalies in their communication network.
