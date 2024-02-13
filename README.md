@@ -1,6 +1,6 @@
-# CDR-Data-Analysis
+# Advanced Analytics for Telecommunications with Power BI - CDR-Data-Analysis
 
-# Call Detail Records Analysis with Power BI Dashboard
+# Call Detail Records Analysis with Power BI Dashboard 
 
 ## Project Overview
 
