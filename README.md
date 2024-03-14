@@ -28,7 +28,7 @@ To use this project, follow these steps:
 
 1. Clone the repository to your local machine using `git clone https://github.com/chiranjeevH/CDR-Analysis.git`.
 
-2. Install the required Python libraries by running `pip install -r requirements.txt`, which includes `pandas` and `collections`.
+2. Install the required Python libraries by running pip install the libraries including `pandas` and `collections`.
 
 3. Prepare your CDR data files and ensure they are placed in the appropriate directory.
 
