@@ -1,7 +1,5 @@
 # Business Data Analytics in Telecommunications Using Power BI
 
-## Comprehensive Analysis of Call Detail Records (CDRs) with Power BI
-
 ### Project Summary
 
 This project presents a sophisticated solution developed with Python for deep analysis of Call Detail Records (CDRs) within the telecommunications sector, enriched with the visualization power of Power BI dashboards. CDRs, which chronicle extensive details like call duration, timestamps, and contact numbers, are pivotal for understanding communication flows. By harnessing Python for data processing and Power BI for visualization, this initiative enables profound insights into calling trends, behaviors, and irregularities, supporting strategic business decisions in telecommunications.
