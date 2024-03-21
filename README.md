@@ -23,6 +23,4 @@ To leverage this solution for business data analysis in telecommunications, foll
 4. Initiate the analysis process with `python cdr_analysis.py` in the command line, adhering to the prompts for a guided experience.
 5. Upon completion, access the generated Power BI dashboard file with Power BI Desktop for in-depth analysis and visualization.
 
-### Project Licensing
 
-This initiative operates under a corporate license by Tectum Technologies PVT LTD, dedicated to advancing business data analytics within the telecommunications domain.
