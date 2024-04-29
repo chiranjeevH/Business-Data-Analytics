@@ -1,4 +1,4 @@
-# Business Data Analytics in Telecommunications Using Power BI
+# Data Analytics Using Power BI
 
 ## Project Summary
 This initiative significantly transformed stakeholder engagement within the telecommunications industry by leveraging the capabilities of Power BI in conjunction with Python for comprehensive business analysis. By focusing on real-time monitoring and analysis of Key Performance Indicators (KPIs), we've dramatically improved internal business partner collaboration and customer retention strategies. Through the meticulous analysis of Call Detail Records (CDRs), this project enabled a data-driven approach to understand customer behaviors and network usage patterns, thereby reducing annual customer churn by 1,200 and halving the analysis time from 20 to 10 hours.
